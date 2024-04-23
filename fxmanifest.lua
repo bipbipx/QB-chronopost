@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'VotreNom'
+author 'Bipbipx'
 description 'Module de livraison Chronopost pour QB-Core'
 version '1.0.0'
 
